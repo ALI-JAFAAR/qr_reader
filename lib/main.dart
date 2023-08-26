@@ -14,7 +14,6 @@ void main() async {
         ChangeNotifierProvider.value(
           value: AppProvider(),
         ),
-
       ],
       child: const MyApp(),
     ),

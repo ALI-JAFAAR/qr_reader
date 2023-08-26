@@ -2,12 +2,6 @@
   "configVersion": 2,
   "packages": [
     {
-      "name": "_flutterfire_internals",
-      "rootUri": "file:///Users/alijaafar/.pub-cache/hosted/pub.dev/_flutterfire_internals-1.3.5",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
       "name": "archive",
       "rootUri": "file:///Users/alijaafar/.pub-cache/hosted/pub.dev/archive-3.3.7",
       "packageUri": "lib/",
@@ -96,42 +90,6 @@
       "rootUri": "file:///Users/alijaafar/.pub-cache/hosted/pub.dev/file-6.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "firebase_auth",
-      "rootUri": "file:///Users/alijaafar/.pub-cache/hosted/pub.dev/firebase_auth-4.7.3",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
-      "name": "firebase_auth_platform_interface",
-      "rootUri": "file:///Users/alijaafar/.pub-cache/hosted/pub.dev/firebase_auth_platform_interface-6.16.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
-      "name": "firebase_auth_web",
-      "rootUri": "file:///Users/alijaafar/.pub-cache/hosted/pub.dev/firebase_auth_web-5.6.3",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
-      "name": "firebase_core",
-      "rootUri": "file:///Users/alijaafar/.pub-cache/hosted/pub.dev/firebase_core-2.15.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
-      "name": "firebase_core_platform_interface",
-      "rootUri": "file:///Users/alijaafar/.pub-cache/hosted/pub.dev/firebase_core_platform_interface-4.8.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
-      "name": "firebase_core_web",
-      "rootUri": "file:///Users/alijaafar/.pub-cache/hosted/pub.dev/firebase_core_web-2.7.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
     },
     {
       "name": "flutter",
@@ -518,7 +476,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-08-24T07:09:08.537014Z",
+  "generated": "2023-08-26T07:31:30.151926Z",
   "generator": "pub",
   "generatorVersion": "3.0.6"
 }
